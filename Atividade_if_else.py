@@ -42,7 +42,7 @@
 
 
 
-x=int(input('Informe o valor de X'))
+#x=int(input('Informe o valor de X'))
 y=int(input('Informe valor de y'))
 
 if  x>0 and y>0:
